@@ -1,12 +1,12 @@
 [
   {
     "name": "Fire",
-    "url": "http://oxplay.ru/fastdl/sound/taunts/fire.mp3",
+    "url": "https://raw.githubusercontent.com/oxplayru/oxp-taunts/master/fire.mp3",
     "length": "0"
   },
   {
-    "name": "Fire",
-    "url": "http://oxplay.ru/fastdl/sound/taunts/fire.mp3",
+    "name": "StickMan",
+    "url": "https://raw.githubusercontent.com/oxplayru/oxp-taunts/master/herosiege.wav",
     "length": "0"
   },
   {
